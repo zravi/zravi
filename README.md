@@ -1,5 +1,8 @@
 ### Hi there !
-Hi. I’m #RΛVI. I am a Software Engineer/FullStack WEB DEV. from INDIA.🇮🇳
+Hi. I’m #RΛVI :octocat:. I am a Software Engineer/FullStack WEB DEV. from INDIA.🇮🇳
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 <!--
