@@ -1,6 +1,10 @@
 # Z :octocat:  [🔗](https://zravi.github.io/)
 ## Hi there !
 ### I am a Software Engineer/FullStack WEB DEV. from INDIA.🇮🇳
+HTML,CSS,JS,NODE.JS,REACT.JS,PHP,LARAVEL.
+C,C++,C#,JAVA,PYTHON.
+SQL.
+BAT,CMD,BASH,PS.
 
 <!--
 **zravi/zravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
