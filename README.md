@@ -2,9 +2,9 @@
 ### Hi there !
 Hi. I’m #RΛVI :octocat:. I am a Software Engineer/FullStack WEB DEV. from INDIA.🇮🇳
 
-![GitHub Logo](/images/logo.png)
+<!---![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
-
+-->
 
 <!--
 **zravi/zravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
