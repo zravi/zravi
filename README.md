@@ -6,6 +6,8 @@ C,C++,C#,JAVA,PYTHON.
 SQL.
 BAT,CMD,BASH,PS.
 
+### LEARN AS MUCH AS YOU CAN.BUT ALSO KNOW YOU WILL NEVER KNOW IT ALL!
+
 <!--
 **zravi/zravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
