@@ -1,6 +1,6 @@
-## Z:octocat:
+## Z:octocat:  [🔗](https://zravi.github.io/)
 ### Hi there !
-Hi. I’m [#RΛVI](https://zravi.github.io/) :octocat:. I am a Software Engineer/FullStack WEB DEV. from INDIA.🇮🇳
+Hi.I am a Software Engineer/FullStack WEB DEV. from INDIA.🇮🇳
 
 <!--
 **zravi/zravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
