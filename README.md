@@ -1,10 +1,10 @@
 # Z :octocat:  [🔗](https://zravi.github.io/)
 ## Hi there !
-### I am a Software Engineer/FullStack WEB DEV. from INDIA.🇮🇳
-HTML,CSS,JS,NODE.JS,REACT.JS,PHP,LARAVEL.
-C,C++,C#,JAVA,PYTHON.
-SQL.
-BAT,CMD,BASH,PS.
+### I am a Software Engineer/FullStack WEB DEV. from INDIA.  🇮🇳
+- HTML,CSS,JS,NODE.JS,REACT.JS,PHP,LARAVEL.
+- C,C++,C#,JAVA,PYTHON.
+- SQL.
+- BAT,CMD,BASH,PS.
 
 ### LEARN AS MUCH AS YOU CAN.BUT ALSO KNOW YOU WILL NEVER KNOW IT ALL!
 
