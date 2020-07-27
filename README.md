@@ -1,5 +1,5 @@
 
-![banner](/assets/bs.png)
+![github](/assets/bs.png)
 # Z :octocat:  [🔗](https://zravi.github.io/)
 ## Hi there !
 ### 🔭I am a Software Engineer/FullStack WEB DEV. from INDIA.  🇮🇳
