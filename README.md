@@ -1,4 +1,4 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 # Z  [🔗](https://zravi.github.io/)
 ## Hi there !
 ### 🔭I am a Software Engineer/FullStack WEB DEV. from INDIA.  🇮🇳
@@ -13,6 +13,8 @@
 - 📱 Love #Microsoft
 - 
 - ⚡ LEARN AS MUCH AS YOU CAN.BUT ALSO KNOW YOU WILL NEVER KNOW IT ALL!
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 
 <!--
 **zravi/zravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
