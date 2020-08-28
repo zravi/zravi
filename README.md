@@ -12,7 +12,8 @@
 - 💬 Languages: Hindi & English
 - 📱 Love #Microsoft
 - 
-- ⚡ LEARN AS MUCH AS YOU CAN.BUT ALSO KNOW YOU WILL NEVER KNOW IT ALL!
+- ⚡ A CPU is literally a rock that we tricked into thinking!
+
 
 <!--
 **zravi/zravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
