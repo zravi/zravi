@@ -1,0 +1,18 @@
+Partition your local disk before installing, or prepare a tf card. It's more safe to put in a tf card and I'm not afraid to spoil Windows.
+Do a USB boot with rufus, ubuntu16 / 18 can be. Plug in USB and restart your computer.
+In general, direct access to GRUB boot. Select Install Ubuntu to go to the installation step. Note that it is installed on a pre-prepared partition and should never be installed on nvme0n.
+If you go directly to windows, press and hold shift to click restart, you can enter the UEFI settings interface, manually move USB to the first place in the boot order. Try this step again.
+When the installation is complete, restart. This time should still be USB boot, this time choose Try Ubuntu without installing,into the USB boot disk system. Open a terminal and enter the following instructions at a time.
+sudo su
+cd /media
+mkdir windowsefi
+mkdir microsdefi
+mount /dev/nvme0n1p1 windowsefi
+mount /dev/sdb1 microsdefi
+cd microsdefi
+cp -R ../windowsefi/EFI ./
+exit
+
+In this way, the system boot is set up. Restart and unplug the USB, you can normally enter GRUB to choose ubuntu or widows.
+If you don't want to use it at any time, download an EasyUEFI in windows and remove ubuntu from the manage EFI launch item. Then format the disk partition where ubuntu is located.
+
