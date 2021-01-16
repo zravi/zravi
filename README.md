@@ -15,7 +15,7 @@ I'm looking for a job. Email me!
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Rider-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/rider/)
 
-[![](https://img.shields.io/badge/Xiaomi%208-FA6709?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/in/mix2)
+[![](https://img.shields.io/badge/Xiaomi%MIX2-FA6709?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/in/mix2)
 [![](https://img.shields.io/badge/iPad-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ipad/)
 [![](https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff)](https://www.nintendo.com/switch/)
 
