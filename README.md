@@ -2,7 +2,7 @@
 # Z  [🔗](https://zravi.github.io/) <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 ### Hi there 👋
 
-I'm looking for a job. Email me!
+
 
 #### Platform&Tools
 
@@ -16,7 +16,7 @@ I'm looking for a job. Email me!
 [![](https://img.shields.io/badge/IDE-Rider-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/rider/)
 
 [![](https://img.shields.io/badge/Xiaomi%20MIX2-FA6709?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/in/mix2)
-[![](https://img.shields.io/badge/iPad-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ipad/)
+[![](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
 [![](https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff)](https://www.nintendo.com/switch/)
 
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
