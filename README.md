@@ -42,9 +42,9 @@
 ![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/Creating%20with-FFF?style=flat-square)
-[![](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=ffffff)](https://www.blender.org/)
-[![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)](https://www.figma.com/)
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
+[![](https://img.shields.io/badge/Blender-ffffff?style=flat-square&logo=blender&logoColor=F5792A)](https://www.blender.org/)
+[![](https://img.shields.io/badge/Figma-ffffff?style=flat-square&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
+![](https://img.shields.io/badge/Adobe%20Photoshop-ffffff?style=flat-square&logo=Adobe-Photoshop&logoColor=31A8FF)
 
 
 <br/>
