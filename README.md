@@ -17,6 +17,7 @@
 [![](https://img.shields.io/badge/IDE-Rider-ffffff?style=flat-square&logo=JetBrains&logoColor=000000)](https://www.jetbrains.com/rider/)
 
 [![](https://img.shields.io/badge/DELL-Inspiron%207567-ffffff?style=flat-square&logo=dell&logoColor=2376bc)](https://www.dell.com/en-in)
+[![](https://img.shields.io/badge/Surface-Pro%204-blue?style=flat-square&logo=microsoft&logoColor=C0C0C0)](https://support.microsoft.com/en-us/surface)
 [![](https://img.shields.io/badge/XBOX-one-ffffff?style=flat-square&logo=xbox&logoColor=00ff00)](https://www.xbox.com/en-IN/)
 [![](https://img.shields.io/badge/Xiaomi-MIX%202-ffffff?style=flat-square&logo=Xiaomi&logoColor=FA6709)](https://www.mi.com/in/mix2)
 [![](https://img.shields.io/badge/iPhone-ffffff?style=flat-square&logo=apple&logoColor=000)](https://www.apple.com/iphone/)
