@@ -38,8 +38,8 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 ![](https://img.shields.io/badge/RΛVI%20💙-FFF?style=flat-square)
-[![](https://img.shields.io/badge/MICROSOFT-black?style=flat-square&logo=microsoft&logoColor=C0C0C0)](https://www.microsoft.com/)
-[![](https://img.shields.io/badge/-📱-Lumia-ffffff?style=flat-square&logo=windows&logoColor=800080)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/-MICROSOFT-black?style=flat-square&logo=microsoft&logoColor=C0C0C0)](https://www.microsoft.com/)
+[![](https://img.shields.io/badge/📱-Lumia-ffffff?style=flat-square&logo=windows&logoColor=800080)](https://www.microsoft.com/windows/get-windows-10)
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 
