@@ -6,10 +6,10 @@
 
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=007ACC)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)](https://www.freenas.org/)
+[![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=AB2B28)](https://www.freenas.org/)
 
 [![](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/firefox/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-8565c4?style=flat-square&logo=Visual-Studio-Code&logoColor=8565c4)](https://visualstudio.microsoft.com/)
@@ -30,12 +30,13 @@
 [![](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 ![](https://img.shields.io/badge/RΛVI%20💙-FFF?style=flat-square)
+[![](https://img.shields.io/badge/MICROSOFT%20📱Lumia-ffffff?style=flat-square&logo=windows&logoColor=800080)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/MICROSOFT-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
