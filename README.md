@@ -9,6 +9,8 @@
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=007ACC)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/DEEPIN-v20-0047ab?style=flat-square&logo=deepin&logoColor=0047ab)](https://www.deepin.org/en/)
+[![](https://img.shields.io/badge/Elementary-ODIN-007ACC?style=flat-square&logo=elementary&logoColor=007ACC)](https://www.deepin.org/en/)
 [![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=AB2B28)](https://www.freenas.org/)
 
