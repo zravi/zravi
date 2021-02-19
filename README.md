@@ -17,8 +17,8 @@
 [![](https://img.shields.io/badge/IDE-Rider-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/rider/)
 
 [![](https://img.shields.io/badge/Xiaomi%20MIX-2-FA6709?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/in/mix2)
-[![](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
-[![](https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff)](https://www.nintendo.com/switch/)
+[![](https://img.shields.io/badge/iPhone-ffffff?style=flat-square&logo=apple&logoColor=000)](https://www.apple.com/iphone/)
+[![](https://img.shields.io/badge/Nintendo%20Switch-007FFF?style=flat-square&logo=Nintendo-Switch&logoColor=FF0000)](https://www.nintendo.com/switch/)
 
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
