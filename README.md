@@ -13,9 +13,12 @@
 [![](https://img.shields.io/badge/Elementary-ODIN-007ACC?style=flat-square&logo=elementary&logoColor=007ACC)](https://www.deepin.org/en/)
 [![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=AB2B28)](https://www.freenas.org/)
+[![](https://img.shields.io/badge/Z/Os-white?style=flat-square&logo=ibm&logoColor=0047ab)](https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zbasics/homepage.html)
+[![](https://img.shields.io/badge/OSS-Devlopment-white?style=flat-square&logo=linux-foundation&logoColor=0047ab)](https://linuxfoundation.org/)
+
 
 [![](https://img.shields.io/badge/Browser-Firefox-ffffff?style=flat-square&logo=firefox&logoColor=FF7139)](https://www.mozilla.org/firefox/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio-8565c4?style=flat-square&logo=Visual-Studio-Code&logoColor=8565c4)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio-8565c4?style=flat-square&logo=Visual-Studio&logoColor=8565c4)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Rider-ffffff?style=flat-square&logo=JetBrains&logoColor=000000)](https://www.jetbrains.com/rider/)
 
