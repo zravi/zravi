@@ -12,7 +12,8 @@
 [![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)](https://www.freenas.org/)
 
 [![](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/firefox/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=8565c4)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Rider-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/rider/)
 
 [![](https://img.shields.io/badge/Xiaomi%20MIX-2-FA6709?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/in/mix2)
