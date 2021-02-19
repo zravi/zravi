@@ -18,7 +18,7 @@
 
 [![](https://img.shields.io/badge/DELL-Inspiron%207567-ffffff?style=flat-square&logo=dell&logoColor=2376bc)](https://www.dell.com/en-in)
 [![](https://img.shields.io/badge/XBOX-one-ffffff?style=flat-square&logo=xbox&logoColor=00ff00)](https://www.xbox.com/en-IN/)
-[![](https://img.shields.io/badge/Xiaomi%20MIX-2-ffffff?style=flat-square&logo=Xiaomi&logoColor=FA6709)](https://www.mi.com/in/mix2)
+[![](https://img.shields.io/badge/Xiaomi-MIX%202-ffffff?style=flat-square&logo=Xiaomi&logoColor=FA6709)](https://www.mi.com/in/mix2)
 [![](https://img.shields.io/badge/iPhone-ffffff?style=flat-square&logo=apple&logoColor=000)](https://www.apple.com/iphone/)
 [![](https://img.shields.io/badge/Nintendo%20Switch-007FFF?style=flat-square&logo=Nintendo-Switch&logoColor=FF0000)](https://www.nintendo.com/switch/)
 
