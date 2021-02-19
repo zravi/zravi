@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Browser-Firefox-ffffff?style=flat-square&logo=firefox&logoColor=FF7139)](https://www.mozilla.org/firefox/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-8565c4?style=flat-square&logo=Visual-Studio-Code&logoColor=8565c4)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-Rider-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/rider/)
+[![](https://img.shields.io/badge/IDE-Rider-ffffff?style=flat-square&logo=JetBrains&logoColor=000000)](https://www.jetbrains.com/rider/)
 
 [![](https://img.shields.io/badge/Xiaomi%20MIX-2-ffffff?style=flat-square&logo=Xiaomi&logoColor=FA6709)](https://www.mi.com/in/mix2)
 [![](https://img.shields.io/badge/iPhone-ffffff?style=flat-square&logo=apple&logoColor=000)](https://www.apple.com/iphone/)
