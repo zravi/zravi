@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=AB2B28)](https://www.freenas.org/)
 [![](https://img.shields.io/badge/Z/Os-white?style=flat-square&logo=ibm&logoColor=0047ab)](https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zbasics/homepage.html)
-[![](https://img.shields.io/badge/OSS-Devlopment-white?style=flat-square&logo=linux-foundation&logoColor=0047ab)](https://linuxfoundation.org/)
+[![](https://img.shields.io/badge/LINUX-FOUNDATION-white?style=flat-square&logo=linux-foundation&logoColor=0047ab)](https://linuxfoundation.org/)
 
 
 [![](https://img.shields.io/badge/Browser-Firefox-ffffff?style=flat-square&logo=firefox&logoColor=FF7139)](https://www.mozilla.org/firefox/)
