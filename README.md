@@ -53,7 +53,7 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-MongoDB-61dafb?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/-Express-61dafb?style=flat-square&logo=expressjs&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Expressjs-61dafb?style=flat-square&logo=express&logoColor=ffffff)](https://reactjs.org/)
 
 [![](https://img.shields.io/badge/NPM-white?style=flat-square&logo=npm&logoColor=cb3837)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
