@@ -1,14 +1,10 @@
 # !
 ![graff](assets/00.png "......")
 
-
 # Z  [🔗](https://zravi.github.io/) <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 ### Hi there 👋
 
-
-
 ### ![](https://img.shields.io/badge/Platform%20🍽-Tools%20🛠-FFF?style=flat-square)
-
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=007ACC)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
@@ -19,7 +15,6 @@
 [![](https://img.shields.io/badge/Z/Os-white?style=flat-square&logo=ibm&logoColor=0047ab)](https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zbasics/homepage.html)
 [![](https://img.shields.io/badge/LINUX-FOUNDATION-white?style=flat-square&logo=linux-foundation&logoColor=0047ab)](https://linuxfoundation.org/)
 
-
 [![](https://img.shields.io/badge/Browser-Firefox-ffffff?style=flat-square&logo=firefox&logoColor=FF7139)](https://www.mozilla.org/firefox/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-8565c4?style=flat-square&logo=Visual-Studio&logoColor=8565c4)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)](https://code.visualstudio.com/)
@@ -29,17 +24,8 @@
 [![](https://img.shields.io/badge/Surface-Pro%204-blue?style=flat-square&logo=microsoft&logoColor=C0C0C0)](https://support.microsoft.com/en-us/surface)
 [![](https://img.shields.io/badge/XBOX-one-ffffff?style=flat-square&logo=xbox&logoColor=00ff00)](https://www.xbox.com/en-IN/)
 
-
-[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-
-[![](https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=cc6699)](https://sass-lang.com/)
-
-[![](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org/)
 [![](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git&logoColor=f05032)](https://git-scm.com/)
 [![](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=000000)](https://www.linuxfoundation.org/)
-
-
 
 ![](https://img.shields.io/badge/RΛVI%20💙-FFF?style=flat-square)
 [![](https://img.shields.io/badge/MICROSOFT-black?style=flat-square&logo=microsoft&logoColor=C0C0C0)](https://www.microsoft.com/)
@@ -53,7 +39,6 @@
 [![](https://img.shields.io/badge/NPM-white?style=flat-square&logo=npm&logoColor=cb3837)](https://npmjs.com/)
 [![](https://img.shields.io/badge/HTML-5-white?style=flat-square&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-
 
 [![](https://img.shields.io/badge/-MongoDB-39ff14?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Expressjs-fbffff?style=flat-square&logo=express&logoColor=61dafb)](https://expressjs.com/)
