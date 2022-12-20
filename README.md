@@ -29,19 +29,16 @@
 [![](https://img.shields.io/badge/Surface-Pro%204-blue?style=flat-square&logo=microsoft&logoColor=C0C0C0)](https://support.microsoft.com/en-us/surface)
 [![](https://img.shields.io/badge/XBOX-one-ffffff?style=flat-square&logo=xbox&logoColor=00ff00)](https://www.xbox.com/en-IN/)
 
-[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+
 [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
 [![](https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=cc6699)](https://sass-lang.com/)
-[![](https://img.shields.io/badge/NPM-white?style=flat-square&logo=npm&logoColor=cb3837)](https://npmjs.com/)
+
 [![](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org/)
-[![](https://img.shields.io/badge/HTML-5-white?style=flat-square&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git&logoColor=f05032)](https://git-scm.com/)
 [![](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=000000)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+
 
 
 ![](https://img.shields.io/badge/RΛVI%20💙-FFF?style=flat-square)
@@ -51,6 +48,19 @@
 ![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/🚀Creating%20with-FFF?style=flat-square)
+[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+
+[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+
+[![](https://img.shields.io/badge/NPM-white?style=flat-square&logo=npm&logoColor=cb3837)](https://npmjs.com/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/HTML-5-white?style=flat-square&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org/)
+
+
+
 
 _______________________________________________________________________________________________________________________________________________________________
 
